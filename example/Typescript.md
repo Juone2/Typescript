@@ -1,6 +1,4 @@
-# Typescript 기본
-
-### 기본 문법
+## Typescript 기본 문법
 
 ```tsx
 let count = 0; // 숫자
